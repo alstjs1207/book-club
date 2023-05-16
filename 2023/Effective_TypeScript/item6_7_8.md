@@ -1,6 +1,6 @@
 ## TIL (2023.05.17)
 
-### DAY 2
+### DAY 4
 
 오늘 읽은 범위: 시작 - 2장) 타입스크립트의 타입 시스템 - 아이템6 ~ 아이템 8
 
@@ -61,6 +61,7 @@ keyog (A|B) = (keyof A) & (keyof B)
 - class 키워드는 값과 타입 두 가지로 모두 사용됩니다. 따라서 클래스에 대한 typeof는 상황에 따라 다르게 동작합니다. (p.49)
 - obj['field'] 와 obj.field는 값이 동일하더라도 타입은 다를 수 있습니다. 따라서 타입의 속성을 얻을 때에는
   반드시 첫 번째 방법을 사용해야 합니다. (p.50)
+- 값에서 &와 |는 AND와 OR 비트연산입니다. 타입에서는 인터섹션과 유니온입니다. (p.51)
 - "foo"는 문자열 리터럴이거나, 문자열 리터럴 타입일 수 있습니다. (p.52)
 
 ```
@@ -75,4 +76,9 @@ keyog (A|B) = (keyof A) & (keyof B)
 궁금한 내용이 있거나, 잘 이해되지 않는 내용이 있다면 적어보세요.
 ```
 
-- exclude
+- exclude<UnionType, ExcludedMembers> : Constructs a type by excluding from UnionType all union members that are assignable to ExcludedMembers.
+
+```
+type T = exclude<string | Date, string | number>; // 타입은 string | Date에서 string | number를 빼서 Date
+type NonZeroNums = Exclude<number, 0>; // 0을 제외한다고 하더라도 타입은 여전히 number이기 때문에 0 사용 가능 (잘못된 방법)
+```
