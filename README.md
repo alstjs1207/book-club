@@ -4,6 +4,7 @@
 
 - [클린코드](https://msyu1207.tistory.com/category/Books/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C) (2022.01)
 - [실용주의프로그래머](https://msyu1207.tistory.com/category/Books/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8) (2022.03)
+- [개발자의 글쓰기](https://msyu1207.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EA%B8%80%EC%93%B0%EA%B8%B0-%EA%B3%A0%EB%AF%BC-%EB%81%9D-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EA%B8%80%EC%93%B0%EA%B8%B0) (2022.10)
 
 ## 2023
 
