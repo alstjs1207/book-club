@@ -20,6 +20,16 @@
 |         ![Effective TypeScript](/image/image2.png) [Effective TypeScript](https://www.yes24.com/Product/Goods/102124327)         |                 ![개발자 원칙](/image/image.png) [개발자 원칙](https://www.yes24.com/Product/Goods/115852769)                  | ![개발 7년차, 매니저 1일차](/image/image1.png) [개발 7년차, 매니저 1일차](https://www.yes24.com/Product/Goods/87336637) |
 | ![대규모 서비스를 지탱하는 기술](/image/image3.png) [대규모 서비스를 지탱하는 기술](https://www.yes24.com/Product/Goods/4667932) | ![읽기 좋은 코드가 좋은 코드다](/image/image4.png) [읽기 좋은 코드가 좋은 코드다](https://www.yes24.com/Product/Goods/6692314) |                                                                                                                         |
 
+## 2024
+
+- 케라스 창시자에게 배우는 딥러닝 개정 2판 (2024.02 ~) (_스터디_)
+- 안녕하세요, 오늘부터 매니저입니다.
+
+|                                                    Hard skills                                                    | Soft skills |                                                Managership                                                 |
+| :---------------------------------------------------------------------------------------------------------------: | :---------: | :--------------------------------------------------------------------------------------------------------: |
+| ![k](/image/image5.png) [케라스 창시자에게 배우는 딥러닝 개정 2판](https://www.yes24.com/Product/Goods/112012471) |             | ![m](/image/image6.png) [안녕하세요, 오늘부터 매니저입니다](https://www.yes24.com/Product/Goods/123758048) |
+|                                                                                                                   |             |                                                                                                            |
+
 ## 예정
 
 - ~쏙쏙 들어오는 함수형 코딩~
