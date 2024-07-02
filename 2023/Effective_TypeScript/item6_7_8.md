@@ -6,7 +6,7 @@
 
 ---
 
-```
+```text
 😉 책에서 기억하고 싶은 내용을 써보세요.
 ```
 
@@ -29,7 +29,7 @@
   - 유닛(unit) = 리터럴(literal) : 한 가지 값만 포함하는 타입
   - 유니온(union) : 합집합
 
-```
+```text
 interface Person {
   name: string;
 }
@@ -45,7 +45,7 @@ type PersonSpan = Person & Lifespan;
   그리고 추가적인 속성을 가지는 값도 여전히 그 타입에 속합ㄴ디ㅏ. 그래서 Person과 Lifespan을 둘 다 가지는 값은 인터섹션 타입에 속하게 됩니다. (p.41)
 - 규칙이 속성에 대한 인터섹션에 관해서는 맞지만, 두 인터페이스의 유니온에서는 그렇지 않습니다. (p.41)
 
-```
+```text
 keyof (A&B) = (keyof A) | (keyof B)
 keyog (A|B) = (keyof A) & (keyof B)
 ```
@@ -64,7 +64,7 @@ keyog (A|B) = (keyof A) & (keyof B)
 - 값에서 &와 |는 AND와 OR 비트연산입니다. 타입에서는 인터섹션과 유니온입니다. (p.51)
 - "foo"는 문자열 리터럴이거나, 문자열 리터럴 타입일 수 있습니다. (p.52)
 
-```
+```text
 🤔 오늘 익은 소감은? 떠오르는 생각을 가볍게 적어보세요
 ```
 
@@ -72,13 +72,13 @@ keyog (A|B) = (keyof A) & (keyof B)
 - 타입과 값에 대한 차이점을 알고 구별 할 줄 알아야 한다.
 - 2장부터 벌써 어려워진 듯한 느낌이 든다...
 
-```
+```text
 궁금한 내용이 있거나, 잘 이해되지 않는 내용이 있다면 적어보세요.
 ```
 
 - exclude<UnionType, ExcludedMembers> : Constructs a type by excluding from UnionType all union members that are assignable to ExcludedMembers.
 
-```
+```text
 type T = exclude<string | Date, string | number>; // 타입은 string | Date에서 string | number를 빼서 Date
 type NonZeroNums = Exclude<number, 0>; // 0을 제외한다고 하더라도 타입은 여전히 number이기 때문에 0 사용 가능 (잘못된 방법)
 ```
