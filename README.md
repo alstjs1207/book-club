@@ -29,20 +29,22 @@
 - 내 코드가 그렇게 이상한가요? (2024.07.01 ~ 8.31) (_스터디_)
 - 코드 작성 가이드 (2024.09.09 ~) (_스터디_)
 
-|   Hard skills      |     Soft skills            |     Managership       |
-| :----------------: | :------------------------: | :-------------------: |
-| ![image](https://github.com/user-attachments/assets/77f93a9b-1497-48b7-ac26-0ab7243ef58e)[케라스 창시자에게 배우는 딥러닝 개정 2판](https://www.yes24.com/Product/Goods/112012471) | ![p](/image/image7.png) [육각형 개발자](https://www.yes24.com/Product/Goods/120215040) | ![image](https://github.com/user-attachments/assets/014176f0-68c5-4d08-a93b-92e41e388fcd) [안녕하세요, 오늘부터 매니저입니다](https://www.yes24.com/Product/Goods/123758048) |
-|                    | ![p](/image/image9.jpeg) [내코드가 그렇게 이상한가요?](https://www.yes24.com/Product/Goods/119287779) |   ![image](https://github.com/user-attachments/assets/d55d16c1-e910-4dc9-b10f-a6fbedeb8494) [일 잘하는 팀장](https://www.yes24.com/Product/Goods/125692594)  |
-|                    | ![image](https://github.com/user-attachments/assets/1286d966-7b4d-4bd9-a3b0-b4a6767d756d) [코드 작성 가이드](https://www.yes24.com/Product/Goods/125977771) |
+|                                                                                    Hard skills                                                                                     |                                                                         Soft skills                                                                         |                                                                                 Managership                                                                                  |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![image](https://github.com/user-attachments/assets/77f93a9b-1497-48b7-ac26-0ab7243ef58e)[케라스 창시자에게 배우는 딥러닝 개정 2판](https://www.yes24.com/Product/Goods/112012471) |                                   ![p](/image/image7.png) [육각형 개발자](https://www.yes24.com/Product/Goods/120215040)                                    | ![image](https://github.com/user-attachments/assets/014176f0-68c5-4d08-a93b-92e41e388fcd) [안녕하세요, 오늘부터 매니저입니다](https://www.yes24.com/Product/Goods/123758048) |
+|                                                                                                                                                                                    |                            ![p](/image/image9.jpeg) [내코드가 그렇게 이상한가요?](https://www.yes24.com/Product/Goods/119287779)                            |          ![image](https://github.com/user-attachments/assets/d55d16c1-e910-4dc9-b10f-a6fbedeb8494) [일 잘하는 팀장](https://www.yes24.com/Product/Goods/125692594)           |
+|                                                                                                                                                                                    | ![image](https://github.com/user-attachments/assets/1286d966-7b4d-4bd9-a3b0-b4a6767d756d) [코드 작성 가이드](https://www.yes24.com/Product/Goods/125977771) |
 
 ## 예정
 
 ### Hard skills
+
 - ~쏙쏙 들어오는 함수형 코딩~
 - 코틀린 인 액션
 - 가상 면접 사례로 배우는 대규모 시스템 설계 기초
-  
+
 ### Soft skills
+
 - 1일 1로그 100일 완성 IT 지식
 - ~코드 작성 가이드~
 - 클린 아키텍처
@@ -50,5 +52,6 @@
 - 도메인 주도 개발 시작하기
 
 ### Managership
+
 - 일 잘하는 팀장: IT 회사에서 살아남은 팀장의 41가지 리더십 기술
 - 필독! 개발자 온보딩 가이드
